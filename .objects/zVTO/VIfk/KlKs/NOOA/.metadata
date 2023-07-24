@@ -1,0 +1,15 @@
+﻿{
+  "Id": "NOOA9AxZmkOQPWG3ZR7g5A",
+  "Reference": "FmHKqh42hE2KCU9MK8z_iA/NOOA9AxZmkOQPWG3ZR7g5A",
+  "ParentRef": "FmHKqh42hE2KCU9MK8z_iA/KlKsF3EVM0We7MdkM8vSOg",
+  "Name": "Mouse Scroll down",
+  "Description": "scroll down to reach the other two news headlines",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-07-21T11:16:20.8600621Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.6.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-21T11:16:20.8600621Z"
+}

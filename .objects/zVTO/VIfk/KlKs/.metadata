@@ -1,0 +1,15 @@
+﻿{
+  "Id": "KlKsF3EVM0We7MdkM8vSOg",
+  "Reference": "FmHKqh42hE2KCU9MK8z_iA/KlKsF3EVM0We7MdkM8vSOg",
+  "ParentRef": "FmHKqh42hE2KCU9MK8z_iA/VIfky5SuRE6SDWPITAg5KQ",
+  "Name": "DownScreen",
+  "Type": "Screen",
+  "Created": "2023-07-21T11:16:02.7996848Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-21T11:16:12.977473Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

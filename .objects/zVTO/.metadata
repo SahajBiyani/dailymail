@@ -1,0 +1,14 @@
+﻿{
+  "Id": "zVTOtaUFM0qFLuMWeEV5vg",
+  "Reference": "FmHKqh42hE2KCU9MK8z_iA/zVTOtaUFM0qFLuMWeEV5vg",
+  "Name": "Screen",
+  "Type": "App",
+  "Created": "2023-07-21T11:16:00.7630549Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-21T11:16:12.2031867Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
